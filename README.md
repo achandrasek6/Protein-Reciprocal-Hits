@@ -11,7 +11,7 @@ Protein sequences from human and chicken are compared via a memoized global‐al
 ---
 
 ## Repository Structure
-Protein-Reciprocal-Hits/
+`Protein-Reciprocal-Hits/`
 
 ├── `blosum62.py`
 
