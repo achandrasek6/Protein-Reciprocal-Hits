@@ -29,7 +29,7 @@ Protein sequences from human and chicken are compared via a memoized global‐al
  
 - `sex_determination.py`
   - Implements:
-    1. A memoized global‐alignment scorer (memoAlignScore) that uses BLOSUM62 and a fixed gap penalty.
+    1. A memoized global‐alignment scorer (`memoAlignScore`) that uses BLOSUM62 and a fixed gap penalty.
     2. Functions to compute all pairwise alignment scores between two gene lists.
     3. Functions to find the “closest match” for any given gene and to print best reciprocal hits.
     4. Example code showing how to run BRH analysis on sample data and, optionally, on the full gene lists.
