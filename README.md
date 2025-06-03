@@ -125,7 +125,7 @@ Execute:
        - Identical to `runBRHSample()`, but uses the full lists `humanGeneList` & `chickenGeneList`.
          
 **At the bottom, the script calls `runBRHSample()`. To run the full dataset, swap that out for `runBRH()`.**
-- _Note that this will take a few minutes to finish running._
+- _Note that this may take a few minutes to finish running._
 
 --- 
 
